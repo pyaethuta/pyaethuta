@@ -6,6 +6,7 @@
 </br>
 An IT Project Coordinator by day ☼ and a curious programming learner by night ☾
 </br>
+</br>
 
 - **⚙️ I know: .php, .js, .html, .css;**
 - **🌍 I'm mostly active within the Project Management Community;**
