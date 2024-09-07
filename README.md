@@ -27,7 +27,9 @@ An IT Project Coordinator by day ☼ and a curious programming learner by night 
 - 📫 How to reach me:
   **[LinkedIn](https://www.linkedin.com/in/pyaethuta/)**
 
-  ## 💻 Open Source Work Stats
+---
+
+  # Open Source Work Stats
 
 
 ![Thuta's Github stats](https://github-readme-stats.vercel.app/api?username=pyaethuta&show_icons=true)
