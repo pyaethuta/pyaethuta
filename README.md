@@ -18,19 +18,18 @@ An IT Project Coordinator by day ☼ and a curious programming learner by night 
 - **[Soo Fong Restaurant](https://soofongrestaurant.com/)**
 - **[Gardenside](https://gardenside.com/)**
 
----
+### My little bit of everything: 
 
 - 🔭 I’m currently working as **Sr. IT Analyst @ AIA Myanmar**
 - 🌱 I’m currently learning **Generative AI**
-- 👯 I’m looking to collaborate on commercial projects
+- 👯 I’m looking to collaborate on Software Development Projects.
 - 💬 Ask me about **Web Development, Project Management**
 - 📫 How to reach me:
   **[LinkedIn](https://www.linkedin.com/in/pyaethuta/)**
 
 ---
 
-  # Open Source Work Stats
-
+### Open Source Work Stats:
 
 ![Thuta's Github stats](https://github-readme-stats.vercel.app/api?username=pyaethuta&show_icons=true)
 
