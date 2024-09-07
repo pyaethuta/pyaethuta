@@ -1,4 +1,4 @@
-![Banner Image](image/banner.png)
+![Banner Image](image/Banner.png)
 
 
 Hello there! It's Thuta 👋
