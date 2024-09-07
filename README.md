@@ -4,9 +4,9 @@
 Hello there! It's Thuta 👋
 An IT Project Coordinator by day ☼ and a curious programming learner by night ☾
 
-**⚙️ I know: .php, .js, .html, .css;**
-**🌍 I'm mostly active within the Project Management Community;**
-**💬 ping me about software development, product, agile, design thinking**
+- **⚙️ I know: .php, .js, .html, .css;**
+- **🌍 I'm mostly active within the Project Management Community;**
+- **💬 ping me about software development, product, agile, design thinking**
 
 ### Visit my 
 **[Blog](https://thuta-blog.vercel.app/)**
