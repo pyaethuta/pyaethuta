@@ -1,7 +1,9 @@
 ![Banner Image](image/Banner.png)
 
 
-Hello there! It's Thuta 👋 </br>
+### Hello there! It's Thuta 👋 
+</br>
+</br>
 An IT Project Coordinator by day ☼ and a curious programming learner by night ☾
 
 - **⚙️ I know: .php, .js, .html, .css;**
