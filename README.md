@@ -9,7 +9,7 @@ An IT Project Coordinator by day ☼ and a curious programming learner by night 
 - **💬 ping me about software development, product, agile, design thinking**
 
 ### Visit my 
-**[Blog](https://thuta-blog.vercel.app/)**
+**[Personal Blog →](https://thuta-blog.vercel.app/)**
 
 ### Projects that I contributed: 
 - **[JTCommerce](https://www.jtcommerce.com/)** 
@@ -26,3 +26,10 @@ An IT Project Coordinator by day ☼ and a curious programming learner by night 
 - 💬 Ask me about **Web Development, Project Management**
 - 📫 How to reach me:
   **[LinkedIn](https://www.linkedin.com/in/pyaethuta/)**
+
+  ## 💻 Open Source Work Stats
+
+
+![Thuta's Github stats](https://github-readme-stats.vercel.app/api?username=pyaethuta&show_icons=true)
+
+
